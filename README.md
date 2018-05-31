@@ -4,4 +4,4 @@ This repo's code is written by following the "02-CSS Crash Course For Absolute B
 <br/>You can found those video tutorial at : https://www.youtube.com/user/TechGuyWeb/playlists (Don't forget to like or dislike, if you like please subscribe). 
 <br/>You can also follow him on Facebook: https://www.facebook.com/traversymedia/
 
-<br/> N.B: Code content  for each video tutorial for this series has been placed at branch having the name of the video tutorial
+
